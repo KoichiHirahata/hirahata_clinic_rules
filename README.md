@@ -1,6 +1,6 @@
 # ヒラハタクリニック規定集
 
-[健診業務について]（./health_check.md）
+[健診業務について](./health_check.md)
 
 [制服代支給について](./uniform.md)
 
