@@ -87,3 +87,5 @@
 [ケーキ・弁当支給について（素案）](./cake.md)
 
 [忘年会について](./bounenkai.md)
+
+[職員の健康診断について](staff_health_check.md)
